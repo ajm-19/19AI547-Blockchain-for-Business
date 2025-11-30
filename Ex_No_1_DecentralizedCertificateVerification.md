@@ -1,3 +1,4 @@
+
 ### Experiment 1: Decentralized Certificate Verification
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
@@ -34,6 +35,7 @@ contract CertificateVerification{
 ● When the university issues a certificate, it gets stored as a hash.
 ● A student or employer can verify the certificate by entering the details.
 ● If valid, it returns true; otherwise, false.
+
 High-Level Overview:
 ● Used to prevent fake certificates.
 ● Enables quick verification by employers or other institutions.
